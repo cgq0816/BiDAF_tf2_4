@@ -1,0 +1,5 @@
+/.idea/*
+*.class
+!/*.py
+/.glove.6B/*
+/.data/*
